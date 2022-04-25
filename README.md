@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 🙋🏻‍♂️I am Madan raj
 
-<!--
-**Madanraj1/Madanraj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lets catch-up here 
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/maddy_madanraj"> ![Instagram](https://img.shields.io/badge/Instagram-B430B1?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+![Twitter](https://img.shields.io/badge/Twitter-079CEC?style=for-the-badge&logo=Twitter&logoColor=white)
+![Mail me](https://img.shields.io/badge/Mail-E24134?style=for-the-badge&logo=Gmail&logoColor=white)
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
